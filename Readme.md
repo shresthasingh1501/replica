@@ -9,14 +9,14 @@ Welcome to the "Replica - Create Your Clone" project, built for the Nosu Superfl
 Clone the repository to your local machine by running:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/shresthasingh1501/replica.git
 ```
 
 ### 2. Install Dependencies
 Navigate to the project directory and install the required dependencies:
 
 ```bash
-cd <project-folder>
+cd replica
 npm install
 ```
 
